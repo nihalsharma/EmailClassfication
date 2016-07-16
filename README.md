@@ -1,1 +1,2 @@
-# Practice-2
+# Sample email classifier
+
